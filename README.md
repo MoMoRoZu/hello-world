@@ -1,2 +1,4 @@
 # hello-world
-This is where legend begin
+
+Hi ALL,
+Just to inform that this is the place where legend begin :)
